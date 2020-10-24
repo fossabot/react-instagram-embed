@@ -1,5 +1,5 @@
 {
-  "name": "react-instagram-embed",
+  "name": "@vyrl/react-instagram-embed",
   "version": "2.0.0",
   "description": "React embedding Instagram posts component",
   "main": "lib/index.js",

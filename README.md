@@ -3,6 +3,7 @@
 [![CircleCI][circleci-image]][circleci-url]
 [![npm version][npm-image]][npm-url]
 [![License][license-image]][license-url]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgovyrl%2Freact-instagram-embed.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgovyrl%2Freact-instagram-embed?ref=badge_shield)
 
 React embedding Instagram posts component
 
@@ -65,3 +66,6 @@ Access token is combination of App Id and Client Token. See https://developers.f
 [circleci-url]: https://circleci.com/gh/sugarshin/react-instagram-embed/tree/master
 [license-image]: https://img.shields.io/:license-mit-blue.svg?style=flat-square
 [license-url]: https://sugarshin.mit-license.org/
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgovyrl%2Freact-instagram-embed.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgovyrl%2Freact-instagram-embed?ref=badge_large)
